@@ -1,0 +1,2 @@
+com.dinuscxj.gesture
+string app_name
